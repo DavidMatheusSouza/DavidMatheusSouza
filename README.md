@@ -1,6 +1,6 @@
-# Ola! Me chamo David Matheus
+# Ola! ✌️ Me chamo David Matheus e tenho  24 anos.✌️
 
-- 🖥️ Atualmente trabalhando com suporte.
+- 🖥️ Atualmente trabalhando com Suporte de TI
 - 📚 Cursando Análise e Desenvolvimento de Sistema
 - ✏️ Estudando Python e JavaScript.
 
