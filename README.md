@@ -1,8 +1,8 @@
 # Ola! ✌️ Me chamo David Matheus✌️
 
-- 🖥️ Atualmente trabalhando com Suporte de T.I na empresa Ital.<br>
+- 🖥️ Atualmente trabalhando com Suporte de T.I<br>
 - 📚 Cursando Análise e Desenvolvimento de Sistema.<br>
-- ✏️ Estudando JavaScript e Segurança da Informação.
+- ✏️ Estudando JavaScript e DevOps.
 
 
 <div align="center">
