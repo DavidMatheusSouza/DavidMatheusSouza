@@ -2,7 +2,7 @@
 
 - 🖥️ Atualmente trabalhando com Suporte de T.I na empresa Ital.<br>
 - 📚 Cursando Análise e Desenvolvimento de Sistema.<br>
-- ✏️ Estudando Python, JavaScript e Segurança da Informação.
+- ✏️ Estudando JavaScript e Segurança da Informação.
 
 
 <div align="center">
