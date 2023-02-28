@@ -2,7 +2,7 @@
 
 - 🖥️ Atualmente trabalhando com Suporte de T.I<br>
 - 📚 Cursando Análise e Desenvolvimento de Sistema.<br>
-- ✏️ Estudando JavaScript e DevOps.
+- ✏️ Estudando JavaScript e Segurança da Informação.
 
 
 <div align="center">
