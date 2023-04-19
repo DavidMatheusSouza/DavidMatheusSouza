@@ -2,7 +2,7 @@
 
 - 🖥️ Atualmente trabalhando com Suporte de T.I<br>
 - 📚 Cursando Análise e Desenvolvimento de Sistema.<br>
-- ✏️ Estudando JavaScript
+- ✏️ Estudando Redes
 
 
 <div align="center">
