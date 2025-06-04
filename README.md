@@ -1,8 +1,7 @@
 # Ola! ✌️ Me chamo David Matheus✌️
 
-- 🖥️ Atualmente trabalhando com Suporte de T.I<br>
-- 📚 Cursando Análise e Desenvolvimento de Sistema.<br>
-- ✏️ Estudando JavaScript e Python
+- 🖥️ Atualmente estou desempregado a procura de um nova oportunidade<br>
+- 📚 Formado em  Análise e Desenvolvimento de Sistema.<br>
 
 
 <div align="center">
@@ -13,12 +12,14 @@
 
 ## 💡 Tecnologias
 <div style="display: inline_block" align="center">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=yellow" />
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySql-1572B6?style=for-the-badge&logo=MySql&logoColor=white" />
   <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-C0C0C0?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img align="center" alt="terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform"/>
+  <img align="center" alt="gcp" src="https://img.shields.io/badge/Google%20Cloud-4285F4?&style=plastic&logo=Google%20Cloud&logoColor=white"/>
+  <img align="center" alt="K8s" src="https://img.shields.io/badge/kubernetes-326CE5?&style=plastic&logo=kubernetes&logoColor=white"/>
+  <img align="center" alt="Docker" src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white"/>
+
   
 </div><br/>
 
