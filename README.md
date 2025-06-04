@@ -34,7 +34,7 @@
   <a href = "davidmatheus.sc@hotmail.com@hotmail.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/David Matheus-05122A?style=flat&logo=Microsoftoutlook" alt="outlook"/>
 </a>
-  <a href="https://linkedin.com/in/david-matheus-souza-091586221" target="_blank">
+  <a href="https://www.linkedin.com/in/david-matheus-souza-cordeiro/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-David Matheus-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
  
