@@ -1,6 +1,6 @@
 # Ola! ✌️ Me chamo David Matheus✌️
 
-- 🖥️ Atualmente estou desempregado a procura de um nova oportunidade<br>
+- 🖥️ DevOps | Cloud Infrastructure | Terraform • Docker • Kubernetes • CI/CD<br>
 - 📚 Formado em  Análise e Desenvolvimento de Sistema.<br>
 
 
